@@ -1,8 +1,8 @@
 # Complex Number Class in Dart
 
 ![Dart](https://img.shields.io/badge/Dart-000000?style=flat&logo=dart&logoColor=white)
-![Pub](https://img.shields.io/pub/v/complex?color=blue)
-![GitHub](https://img.shields.io/github/license/your-username/complex)
+![Pub](https://img.shields.io/pub/v/i?color=blue)
+![GitHub](https://img.shields.io/github/license/xooniverse/i)
 
 ## Overview
 
@@ -21,7 +21,7 @@ To use the `Complex` class in your Dart project, include it in your `pubspec.yam
 
 ```yaml
 dependencies:
-  i: ^1.0.0
+  i: ^1.0.1
 ```
 
 Then run `dart pub get` to install the dependency.
